@@ -1,0 +1,17 @@
+Name: BattleCryHub
+version 1.8.8
+deadline: not specified
+
+Features:
+ - Server Navigator
+ - Custom Join/Leave Message
+
+Server Navigator:
+ - ItemType : Netherstar
+ - DisplayName (colorcodes need to be defined by an '&' symbol) : &6ServerSelector
+ - Special attributes (such as enchants) : NONE
+ - Amount of inventory rows : 1
+ 
+Custom Join/Leave Message:
+ - Join message (%PlayerName% for player's name and colorcodes need to be defined by an '&' symbol) : (see screenshot)
+ - Leave message (%PlayerName% for player's name and colorcodes need to be defined by an '&' symbol) : (see screenshot)
